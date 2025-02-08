@@ -54,7 +54,3 @@ system_prompt = SystemMessagePromptTemplate.from_template(
 
 ##  Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
-
-##  Contact
-- **GitHub**: [Your Profile](https://github.com/YOUR-USERNAME)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
